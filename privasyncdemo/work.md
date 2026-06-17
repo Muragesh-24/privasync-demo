@@ -193,11 +193,11 @@ contexts/
 
 
 
-# Task 7 - Notification Center
+# Task 7 - Notification
 
 ## Members
 
-2 People
+
 
 ## Deliverables
 
@@ -285,20 +285,3 @@ Examples:
 ---
 
 
-# Pull Request Checklist
-
-Before creating a PR:
-
-* Code compiles successfully
-* No TypeScript errors
-* Responsive design checked
-* Proper folder structure followed
-* Components are reusable
-* No unnecessary console logs
-* PR description added
-
----
-
-# Sprint Goal
-
-By the end of Sprint 1, the entire frontend structure of PrivAsync should be functional with mock data, allowing backend integration to begin in the next phase.
